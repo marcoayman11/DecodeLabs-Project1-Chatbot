@@ -1,4 +1,3 @@
-#Task-1-Marco Ayamn
 Project Title: Rule-Based Chatbot
 
 Description:
